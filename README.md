@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Lucas Moreira, i help to develop the future of mobility on 🟠APTIV🟠 Brazil, who manufacture wiring harnesses for automobiles, and others auto eletric supplies.
+
+### 🚀 Expertise
+
+### 💻 Tech Stack
+JavaScript TypeScript HTML5 CSS3 React
 
 <!--
 **LucasSNM/LucasSNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
