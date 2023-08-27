@@ -3,11 +3,9 @@ Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develo
 
 ### 👨‍💻 Actually
 I’m currently working on personal project of a Pokédex (one of the projects i ever wanted to do), you can check the results on the link: 
-<a href="https://nextpoke-dex.vercel.app/">
-  <img height=200 align="center" src="blob:https://vercel.com/9461d981-f77d-491a-b1ad-3ccfc878e613" />
+<a href="https://nextpoke-dex.vercel.app">
+  <img height=200 align="center" src="https://github.com/LucasSNM/LucasSNM/assets/19667745/522609a6-ab4e-4870-8744-7a1848fb7788" />
 </a>
-
-[Source](https://nextpoke-dex.vercel.app/ "Permalink to ")
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex)](https://github.com/LucasSNM/next-pokedex)
 
 # 💻 Tech Stack
