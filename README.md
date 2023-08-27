@@ -6,8 +6,8 @@ Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develo
 ### 💻 Tech Stack
 JavaScript TypeScript HTML5 CSS3 React
 
-<a href="https://github.com/LucasSNM/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSNM" />
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex">
+  <img height=200 align="center" src="https://github.com/LucasSNM/next-pokedex" />
 </a>
 <a href="https://github.com/LucasSNM/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSNM&layout=compact&langs_count=8&card_width=320" />
@@ -15,6 +15,9 @@ JavaScript TypeScript HTML5 CSS3 React
 
 <!--
 **LucasSNM/LucasSNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=github-readme-stats)](https://github.com/LucasSNM/github-readme-stats)
 
 Here are some ideas to get you started:
 
