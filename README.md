@@ -6,9 +6,12 @@ Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develo
 ### 💻 Tech Stack
 JavaScript TypeScript HTML5 CSS3 React
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex">
   <img height=200 align="center" src="https://github.com/LucasSNM/next-pokedex" />
 </a>
+-->
 <a href="https://github.com/LucasSNM/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSNM&layout=compact&langs_count=8&card_width=320" />
 </a>
