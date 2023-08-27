@@ -6,6 +6,8 @@ I’m currently working on personal project of a Pokédex (one of the projects i
 <a href="https://nextpoke-dex.vercel.app/">
   <img height=200 align="center" src="blob:https://vercel.com/9461d981-f77d-491a-b1ad-3ccfc878e613" />
 </a>
+
+[Source](https://nextpoke-dex.vercel.app/ "Permalink to ")
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex)](https://github.com/LucasSNM/next-pokedex)
 
 # 💻 Tech Stack
