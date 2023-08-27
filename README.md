@@ -8,7 +8,7 @@ I’m currently working on personal project of a Pokédex (one of the projects i
 </a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex)](https://github.com/LucasSNM/next-pokedex)
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -22,7 +22,7 @@ I’m currently working on personal project of a Pokédex (one of the projects i
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
-# 📝 My Statistics
+### 📝 My Statistics
 <a href="https://github.com/LucasSNM/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSNM&layout=compact&langs_count=8&card_width=320" />
 </a>
