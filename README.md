@@ -1,10 +1,17 @@
 ### Hi there 👋
-I'm Lucas Moreira, i help to develop the future of mobility on 🟠APTIV🟠 Brazil, who manufacture wiring harnesses for automobiles, and others auto eletric supplies.
+Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develop the future of mobility on 🟠APTIV🟠 Brazil, who manufacture wiring harnesses for automobiles, and others auto eletric supplies.
 
 ### 🚀 Expertise
 
 ### 💻 Tech Stack
 JavaScript TypeScript HTML5 CSS3 React
+
+<a href="https://github.com/LucasSNM/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSNM" />
+</a>
+<a href="https://github.com/LucasSNM/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSNM&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **LucasSNM/LucasSNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
