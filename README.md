@@ -2,7 +2,10 @@
 Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develop the future of mobility on 🟠APTIV🟠 Brazil, who manufacture wiring harnesses for automobiles, and others auto eletric supplies.
 
 ### 👨‍💻 Actually
-I’m currently working on personal project of a Pokédex (one of the projects i ever wanted to do), you can check the results on the link: https://nextpoke-dex.vercel.app/
+I’m currently working on personal project of a Pokédex (one of the projects i ever wanted to do), you can check the results on the link: 
+<a href="https://nextpoke-dex.vercel.app/">
+  <img height=200 align="center" src="blob:https://vercel.com/9461d981-f77d-491a-b1ad-3ccfc878e613" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex)](https://github.com/LucasSNM/next-pokedex)
 
 # 💻 Tech Stack
@@ -23,6 +26,7 @@ I’m currently working on personal project of a Pokédex (one of the projects i
 <a href="https://github.com/LucasSNM/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSNM&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 
 <!--
 **LucasSNM/LucasSNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
