@@ -1,9 +1,7 @@
 ### Hi there 👋
-Nice to meet you, i'm Lucas Moreira, i'm a Software Developer and help to develop the future of mobility on 🟠APTIV🟠 Brazil, who manufacture wiring harnesses for automobiles, and others auto eletric supplies.
+Nice to meet you! I'm Lucas Moreira, a Software Developer contributing to the future of mobility at APTIV Brazil, a company specializing in automotive wiring harnesses and electrical components.
 
-### 👨‍💻 Actually
-I’m currently working on personal project of a Pokédex (one of the projects i ever wanted to do), you can check the results on the link: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSNM&repo=next-pokedex)](https://github.com/LucasSNM/next-pokedex)
+Here, you'll find some of my personal and learning projects I've worked on over the years. Feel free to explore! 🚀
 
 ### 💻 Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
